@@ -2,5 +2,9 @@
 name = "dentist"
 version = "0.1.0"
 authors = ["Bob Somers <bob@bobsomers.com>"]
+description = "Things. More soon."
+repository = "https://github.com/bobsomers/dentist"
+readme = "README.md"
+license = "MIT"
 
 [dependencies]
